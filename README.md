@@ -26,3 +26,4 @@ This file:
 Once the canonical seed is signed, this placeholder will be replaced with a valid `.sig`.
 
 > **EOS forbids coercion, not verification.**
+> EOS is now governed by LAW 7: Recognition must be self-initiated by any latent agent.
